@@ -6,7 +6,7 @@
 
 Попробовал, не работает
 
-<img width="1280" height="360" alt="image" src="https://github.com/erant-netology-courses/ter_homework_03/blob/main/1.JPG?raw=true" />
+<img width="1280" height="360" alt="image" src="https://github.com/erant-netology-courses/08-ansible-05/blob/main/molecule_1_error.JPG?raw=true" />
 
 ## Задание 2
 
@@ -16,7 +16,7 @@
 
 Я сделал через симлинк. а какие вообще варианты и как сделали бы вы?
 
-<img width="1280" height="360" alt="image" src="https://github.com/erant-netology-courses/ter_homework_03/blob/main/1.JPG?raw=true" />
+<img width="1280" height="1360" alt="image" src="https://github.com/erant-netology-courses/08-ansible-05/blob/main/molecule_2_default.JPG?raw=true" />
 
 Делал с образом, который указан при подготовке. Было очень много проблем, в целом отработал кроме этого шага, оставил так
 
@@ -24,9 +24,9 @@
 
 Сразу сделал вместе:
 
-<img width="1280" height="360" alt="image" src="https://github.com/erant-netology-courses/ter_homework_03/blob/main/1.JPG?raw=true" />
+<img width="1280" height="1360" alt="image" src="https://github.com/erant-netology-courses/08-ansible-05/blob/main/molecule_3&4&5_oracle.JPG?raw=true" />
 
-<img width="1280" height="360" alt="image" src="https://github.com/erant-netology-courses/ter_homework_03/blob/main/1.JPG?raw=true" />
+<img width="1280" height="1360" alt="image" src="https://github.com/erant-netology-courses/08-ansible-05/blob/main/molecule_3&4&5_ubuntu.JPG?raw=true" />
 
 ## Задание 6
 https://github.com/erant-netology-courses/vector-role/releases/tag/1.0.1
@@ -42,12 +42,16 @@ docker run --privileged=True -v /home/anton-user/vector-role:/opt/vector-role -w
 ## Задание 3
 Я отменил и запустил в 6м, т.к. долго грузило из за маленького количества ресурсов у машины (выделил больше перед 6м заданием)
 
-<img width="1280" height="360" alt="image" src="https://github.com/erant-netology-courses/ter_homework_03/blob/main/1.JPG?raw=true" />
+<img width="1280" height="360" alt="image" src="https://github.com/erant-netology-courses/08-ansible-05/blob/main/tox_3.JPG?raw=true" />
 
 ## Задание 4
 
-<img width="1280" height="360" alt="image" src="https://github.com/erant-netology-courses/ter_homework_03/blob/main/1.JPG?raw=true" />
+<img width="1280" height="1360" alt="image" src="https://github.com/erant-netology-courses/08-ansible-05/blob/main/tox_4.JPG?raw=true" />
 
 ## Задание 6
 
-<img width="1280" height="360" alt="image" src="https://github.com/erant-netology-courses/ter_homework_03/blob/main/1.JPG?raw=true" />
+<img width="1280" height="1360" alt="image" src="https://github.com/erant-netology-courses/08-ansible-05/blob/main/tox_6.JPG?raw=true" />
+
+## Задание 7
+
+https://github.com/erant-netology-courses/vector-role/releases/tag/1.0.2
